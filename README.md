@@ -2,7 +2,7 @@
 
 ![Image of the TOC for the paper](images/toc.png)
 
-This is a simple repository for the geometries (xyz files) from the paper "Illuminating the dark conformational space using dominant rotors."
+This is a simple repository for the geometries (xyz files) from the paper _"Illuminating the dark conformational space using dominant rotors."_
 
 For more informations, please read our paper on _[Nature Chemistry](https://www.nature.com/nchem/)_: [doi: 10.TBA](TBA)
 
