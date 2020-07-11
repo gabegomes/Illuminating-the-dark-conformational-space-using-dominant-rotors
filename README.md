@@ -4,7 +4,7 @@
 
 This is a simple repository for the geometries (xyz files) from the paper "Illuminating the dark conformational space using dominant rotors."
 
-For more informations, please read our paper on _[TBA](https://chemrxiv.org/)_: [doi: 10.TBA](TBA)
+For more informations, please read our paper on _[Nature Chemistry](https://www.nature.com/nchem/)_: [doi: 10.TBA](TBA)
 
 ## Data
 * **Geometry coordinates in .xyz format**
@@ -15,5 +15,7 @@ For more informations, please read our paper on _[TBA](https://chemrxiv.org/)_: 
 
 ## Contact
 Corresponding Author: Prof. Andrei Yudin andrei.yudin[at]utoronto.ca
+
 First Author: Dr. Diego Diaz diego_diaz[at]fas.harvard.edu
+
 Computational Chemistry Author: Dr. Gabriel dos Passos Gomes gabriel.gomes[at]utoronto.ca
