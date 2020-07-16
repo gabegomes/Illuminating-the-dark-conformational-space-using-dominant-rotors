@@ -9,8 +9,8 @@ For more informations, please read our paper on _[Nature Chemistry](https://www.
 ## Data
 * **Geometry coordinates in .xyz format**
     * SI_data/DFT_results: coordinates of all DFT results.
-* **X-Ray coordinates .cif and .xyz formats**
-    * SI_data/X-ray-CIFs: .cif and .xyz coordinates for representative examples.
+* **X-Ray coordinates .cif and formats**
+    * SI_data/X-ray-CIFs: .cif files for representative examples.
 * **NMR of the complexes**
 
 ## Contact
