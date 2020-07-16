@@ -1,4 +1,4 @@
-# Welcome to repository for the paper "Illuminating the dark conformational space using dominant rotors”
+# Welcome to the repository for the paper _"Illuminating the dark conformational space using dominant rotors”_
 
 ![Image of the TOC for the paper](images/toc.png)
 
