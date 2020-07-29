@@ -11,8 +11,8 @@ For more informations, please read our paper on _[Nature Chemistry](https://www.
     * SI_data/DFT_results: coordinates of all DFT results.
 
 ## Contact
-Corresponding Author: Prof. Andrei Yudin andrei.yudin[at]utoronto.ca
+• Corresponding author: Prof. Andrei Yudin andrei.yudin[at]utoronto.ca
 
-First Author: Dr. Diego Diaz diego_diaz[at]fas.harvard.edu
+• First author: Dr. Diego Diaz diego_diaz[at]fas.harvard.edu
 
-Computational Chemistry Author: Dr. Gabriel dos Passos Gomes gabriel.gomes[at]utoronto.ca
+• Computational chemistry author: Dr. Gabriel dos Passos Gomes gabriel.gomes[at]utoronto.ca
