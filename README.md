@@ -4,7 +4,7 @@
 
 This is a simple repository for the geometries (xyz files) from the paper _"Illuminating the dark conformational space using dominant rotors."_
 
-For more informations, please read our paper on _[Nature Chemistry](https://www.nature.com/articles/s41557-020-00620-y)_: [doi: 10.1038/s41557-020-00620-y](https://doi.org/10.1038/s41557-020-00620-y)
+For more informations, please read our paper in _[Nature Chemistry](https://www.nature.com/articles/s41557-020-00620-y)_: [doi: 10.1038/s41557-020-00620-y](https://doi.org/10.1038/s41557-020-00620-y)
 
 ## Data
 * **Geometry coordinates in .xyz format**
